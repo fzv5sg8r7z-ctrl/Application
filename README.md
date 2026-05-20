@@ -2,6 +2,20 @@
 
 Site vitrine premium pour **AWESOME Visuel**, studio créatif spécialisé en vidéo, photo, aftermovie, clip, contenus réseaux sociaux et direction artistique.
 
+## ⚡ Aperçu instantané (sans build)
+
+Double-cliquez simplement sur **`index.html`** à la racine du projet.
+La landing page s'ouvre directement dans votre navigateur — aucun build, aucune dépendance à installer.
+
+Toute la configuration éditable (textes, couleurs, services, images, liens sociaux) se trouve dans **`config.js`** à la racine.
+
+```
+index.html   ← double-cliquez pour visualiser
+config.js    ← éditez ici textes / couleurs / services / images
+```
+
+> Pour une version avec dev server, build production et animations Framer Motion, voir la stack Next.js ci-dessous.
+
 ## Stack technique
 
 - **Next.js 14** (App Router) + **React 18**
